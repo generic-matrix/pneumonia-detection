@@ -7,7 +7,7 @@
 # Outputs
 
 
-![Output](https://github.com/generic-matrix/android-face-mask-detection/blob/main/Output/output.gif)
+![Output](https://raw.githubusercontent.com/generic-matrix/pneumonia-detection/main/Output/output.gif)
 
 
 # Project Structure
