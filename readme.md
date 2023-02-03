@@ -6,7 +6,8 @@
 
 # Outputs
 
-![](https://github.com/generic-matrix/android-face-mask-detection/blob/main/Output/output.mp4?raw=true)
+
+![Output](https://github.com/generic-matrix/android-face-mask-detection/blob/main/Output/output.gif)
 
 
 # Project Structure
