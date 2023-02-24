@@ -27,12 +27,4 @@ The project has 4 folders
 * react-native run-android
 
 
-# How To build iOS App
-
-* ```git clone https://github.com/generic-matrix/pneumonia-detection.git```
-* cd react-native-app
-* npm install
-* react-native run-ios
-
-
 
